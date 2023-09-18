@@ -1,3 +1,7 @@
+## [3.0.4] - 2023-09-18
+
+* update http package.
+
 ## [3.0.3] - 2022-10-31
 
 * support localization on Web
