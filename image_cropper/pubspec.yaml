@@ -20,8 +20,8 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  image_cropper_platform_interface:
-    path: ../image_cropper_platform_interface
+  image_cropper_platform_interface: ^5.0.0
+    # path: ../image_cropper_platform_interface
 
 dev_dependencies:
   flutter_test:
